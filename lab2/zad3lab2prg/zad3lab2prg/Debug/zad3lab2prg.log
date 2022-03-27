@@ -1,0 +1,4 @@
+﻿  zad3lab2prg.cpp
+C:\Users\kryst\source\repos\zad3lab2prg\zad3lab2prg\zad3lab2prg.cpp(18,20): warning C4018: "<": niezgodność typu ze znakiem/bez znaku
+C:\Users\kryst\source\repos\zad3lab2prg\zad3lab2prg\zad3lab2prg.cpp(24,20): warning C4018: "<": niezgodność typu ze znakiem/bez znaku
+  zad3lab2prg.vcxproj -> C:\Users\kryst\source\repos\zad3lab2prg\Debug\zad3lab2prg.exe

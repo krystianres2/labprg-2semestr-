@@ -1,0 +1,4 @@
+﻿  zad4lab2prg.cpp
+C:\Users\kryst\source\repos\zad4lab2prg\zad4lab2prg\zad4lab2prg.cpp(10,7): error C2372: "tab": zmiana definicji; różne typy pośredniego wywołania
+C:\Users\kryst\source\repos\zad4lab2prg\zad4lab2prg\zad4lab2prg.cpp(7): message : zobacz deklarację „tab”
+C:\Users\kryst\source\repos\zad4lab2prg\zad4lab2prg\zad4lab2prg.cpp(22,7): error C2088: "<<": niedozwolone dla class

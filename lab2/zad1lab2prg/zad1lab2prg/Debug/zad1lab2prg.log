@@ -1,0 +1,2 @@
+﻿  zad1lab2prg.cpp
+C:\Users\kryst\source\repos\zad1lab2prg\zad1lab2prg\zad1lab2prg.cpp(24): error C4700: użycie niezainicjowanej zmiennej lokalnej "liczba"
